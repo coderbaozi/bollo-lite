@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Bulletproof';
+  src: url('/fontstyle/Bulletproof.ttf') format(truetype);
+}
+
+@font-face {
+  font-family: 'BulletproofItalic';
+  src: url('/fontstyle/BulletproofItalic.ttf') format(truetype);
+}
