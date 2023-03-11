@@ -28,4 +28,4 @@ bollo create <your project name>
 
 ## Reference
 
-[antfu/vitesse-lite:](https://github.com/antfu/vitesse-lite)
+[antfu/vitesse-lite](https://github.com/antfu/vitesse-lite)
