@@ -18,7 +18,7 @@ function toGithub() {
 <template>
   <nav class="nav space-x-1">
     <Icon @click="toggleTheme" class="text-xl text-zinc-400 cursor-pointer hover:text-emerald-900" :icon="getTheme()" />
-    <a href='https://github.com/coderbaozi'><Icon class="text-xl text-zinc-400 cursor-pointer hover:text-emerald-900" icon="uil:github" /></a>
+    <a href='https://github.com/coderbaozi/bollo-lite'><Icon class="text-xl text-zinc-400 cursor-pointer hover:text-emerald-900" icon="uil:github" /></a>
   </nav>
 </template>
 
